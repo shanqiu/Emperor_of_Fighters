@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BDD0DBDE-DF77-4512-814A-A5D1FE165D3E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>openNiSample007</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>816736E3-4DA1-48FF-9936-E5C3C7AD2B9C</key>
+		<string>https://github.com/johanye/Emperor-of-Fighters.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>openNiSample007.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>816736E3-4DA1-48FF-9936-E5C3C7AD2B9C</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/johanye/Emperor-of-Fighters.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>816736E3-4DA1-48FF-9936-E5C3C7AD2B9C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>816736E3-4DA1-48FF-9936-E5C3C7AD2B9C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>eof2000</string>
+		</dict>
+	</array>
+</dict>
+</plist>
